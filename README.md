@@ -1,2 +1,2 @@
-# https://jeffbt.github.io/Cadastro-Soocia.io
+# https://jeffbt.github.io/cadastrosoociaio
 um parte do site-atividade
